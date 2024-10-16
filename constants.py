@@ -1,7 +1,7 @@
 TEST_URL = 'https://webapp.dev.l3m.space/copilot/#/auth'
 
-USER_EMAIL = 'tester2@tester.ru'
-USER_PASSWD = 'vs45^gsdt'
+USER_EMAIL = 'tester2@testerы.ru'
+USER_PASSWD = 'vs45^gsdt1'
 
 TEST_PHRASE = 'какой штраф будет за выброшенный окурок в водоохранной зоне?'
 
